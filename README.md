@@ -4,7 +4,7 @@ I may write one as well
 React based?
  
 
-Host on AWS ask ( wyatt?)
+Host on AWS (ask  wyatt?)
 
 
 Figma?
